@@ -1,0 +1,84 @@
+body {
+    font-size: 1.2rem;
+}
+@media (max-width: 768px) {
+    main-doc {
+        width: 358 px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1199px) {
+    main-doc {
+        width: 675px;
+    }
+}
+pre {
+    width: 10%;;
+}
+#my-flex-container {
+    display: flex;
+    margin-left: 22.93%;
+    width: 50%;
+    border-right: 2px solid grey;
+    border-left: 2px solid grey;
+}
+
+#navbar {
+    position: fixed;
+    left: 3%;
+    background-color: antiquewhite;
+    width: 20%;
+    border: 2px solid grey;
+    
+}
+
+#navbar > header > h1 {
+    width: 85%;
+    margin-left: 15%;
+}
+
+.main-section {
+    width: 80%;
+    padding-left: 5%;
+    text-align: justify;
+    margin-left: 5%;
+}
+
+.main-section:target {
+    background-color: rgb(43, 23, 91);
+    color: white;
+}
+pre {
+    position: relative;
+    left: -20%;
+    
+}
+
+
+#navbar > header > ul > li {
+    list-style: none;
+    padding: 5%;
+    /* border-bottom: 2px solid grey;
+    border-left: 2px solid grey; */
+}
+
+#navbar > header > ul > li > a[href] {
+    color: black;
+    text-decoration: none;
+    font-size: 150%;
+}
+
+#navbar > header > ul > li:hover {
+    font-weight: 150%;
+    background-color: darkgreen;
+    transform: scale(1.);
+}
+
+#navbar > header > ul > li > a[href]:hover {
+    color: white;
+}
+
+ul > #list-intro  {
+    border-top: 2px solid grey;
+
+}
