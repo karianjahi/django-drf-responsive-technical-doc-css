@@ -1,4 +1,4 @@
-# Responsive Technical Docs - CSS Project
+# Django DRF Responsive Technical Docs - CSS Project
 
 This project, titled **responsive-technical-docs-css**, is a responsive and interactive **technical documentation page** built using only HTML and CSS. The documentation focuses on Django REST Framework (DRF), demonstrating how to structure, navigate, and display content in a clean, user-friendly, and accessible format.
 
