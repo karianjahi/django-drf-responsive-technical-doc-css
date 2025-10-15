@@ -80,7 +80,7 @@ This is purely CSS-based and uses the :target pseudo-class with anchor links (#s
 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/responsive-technical-docs-css.git
+git clone https://github.com/karianjahi/responsive-technical-docs-css.git
 cd responsive-technical-docs-css
 ```
 
